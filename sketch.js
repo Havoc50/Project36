@@ -8,8 +8,8 @@ var dogImage, happyDogImage;
 function preload(){
 
   //load images here
-  dogImage = loadImage("images/dogImg.png");
-  happyImage = loadImage("images/dogImg1.png");
+  dogImage = loadImage("dogImg.png");
+  happyImage = loadImage("dogImg1.png");
 
 }
  
